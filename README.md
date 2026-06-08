@@ -19,4 +19,14 @@ And the last feature before moving on to my next project, video recognition. (wh
 <img width="911" height="436" alt="image" src="https://github.com/user-attachments/assets/79299b7f-dc14-4bf7-93d3-7dafc131491c" />
 
 # Eximius
-This is my second project that came after Chronos. Eximius was another AI project that used Gemini 2 and later 3, and later Groq models. (Like Llama, Qwen, etc)
+This was my second project that came after Chronos. Eximius was another AI project that used Gemini 2 and later 3, and later Groq models. (Like Llama, Qwen, etc)
+
+It had the same JSON memory as Chronos. Video recognition was cut, unnecessary information were removed from the context, which has significantly improved performance in the bot.
+
+Eximius was quite cynical and sarcastic too.
+
+<img width="720" height="372" alt="image" src="https://github.com/user-attachments/assets/63785597-c5c6-45b8-a400-962554925d22" />
+
+The bot was also hallucinating about Chronos. But it was a funny gag so I decided to keep it. 
+
+<img width="734" height="280" alt="image" src="https://github.com/user-attachments/assets/c908cfc3-0d1c-4c23-9ee8-ac9b49f1922b" />
