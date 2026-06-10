@@ -30,3 +30,16 @@ Eximius was quite cynical and sarcastic too.
 The bot was also hallucinating about Chronos. But it was a funny gag so I decided to keep it. 
 
 <img width="734" height="280" alt="image" src="https://github.com/user-attachments/assets/c908cfc3-0d1c-4c23-9ee8-ac9b49f1922b" />
+
+## Zaki
+Zaki is my latest AI Project, it has SQLite3 memory, multi-server memory, human-like language, easier configuration , better performance, the ability to reply to messages on its own, dming, etc...
+
+<img width="507" height="295" alt="Zaki copying humans" src="https://github.com/user-attachments/assets/27136197-abba-4b2f-b053-54c0e60ce642" />
+
+But the choosing to reply feature was removed because it frustrated some people. The bot was 'moody'. (The following image was in a DM channel)
+
+<img width="600" height="385" alt="image" src="https://github.com/user-attachments/assets/aa088e8d-271e-4ced-8724-5f40e2efc50d" />
+
+Multi-server memory in Zaki (Some text below was redacted for privacy purposes)
+
+<img width="599" height="297" alt="image" src="https://github.com/user-attachments/assets/22bdd30d-c8ec-497e-855e-e20e9b7a08d1" />
