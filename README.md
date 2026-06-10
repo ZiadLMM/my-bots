@@ -32,7 +32,7 @@ The bot was also hallucinating about Chronos. But it was a funny gag so I decide
 <img width="734" height="280" alt="image" src="https://github.com/user-attachments/assets/c908cfc3-0d1c-4c23-9ee8-ac9b49f1922b" />
 
 ## Zaki
-Zaki is my latest AI Project, it has SQLite3 memory, multi-server memory, human-like language, easier configuration , better performance, the ability to reply to messages on its own, dming, etc...
+Zaki is my latest AI Project, it has SQLite3 memory, multi-server memory, human-like language, easier configuration , better performance, the ability to reply to messages on its own, DMing, etc...
 
 <img width="507" height="295" alt="Zaki copying humans" src="https://github.com/user-attachments/assets/27136197-abba-4b2f-b053-54c0e60ce642" />
 
