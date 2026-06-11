@@ -21,7 +21,7 @@ And the last feature before moving on to my next project, video recognition. (wh
 # Eximius
 This was my second project that came after Chronos. Eximius was another AI project that used Gemini 2 and later 3, and later Groq models. (Like Llama, Qwen, etc)
 
-It had the same JSON memory as Chronos. Video recognition was cut, unnecessary information were removed from the context, which has significantly improved performance in the bot.
+It had the same features as Chronos, but video recognition was cut, unnecessary information was removed from the context, which has significantly improved performance in the bot.
 
 Eximius was quite cynical and sarcastic too.
 
